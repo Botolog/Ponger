@@ -37,8 +37,6 @@
 	> lobby mode (multiuser)
 	> game logic (serves, winning conditions)
 	> undo of mistakes (like ctrl-z)
-	> drag & friction
-
 ---
 
 
