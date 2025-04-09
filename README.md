@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
+    <img src="https://raw.githubusercontent.com/Botolog/Ponger/refs/heads/master/app/src/main/res/drawable-widecg/logo.png" align="center" width="30%">
 </p>
 <p align="center"><h1 align="center">Ponger</h1></p>
 <p align="center">
-	Online Realtime Ping-Pong Counter
+	~Online Realtime Ping-Pong Counter~
 </p>
 <p align="center">
 	<!-- local repository, no metadata badges. --></p>
@@ -63,4 +63,7 @@ If one of the players' color is green, that means he won!
 ## Screenshots & Demo
 
 https://github.com/user-attachments/assets/45d8d268-96a3-4d35-a309-c99eb316c598
+
+https://github.com/user-attachments/assets/ffd82499-93db-45fb-82b9-9fe4d68975b9
+
 
